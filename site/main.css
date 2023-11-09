@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+.menu{
+    text-align: center;
+}
+
+.menu a{
+    background-color: orange;
+    text-decoration: none;
+}
+
