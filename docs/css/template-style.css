@@ -682,7 +682,7 @@ aside.aside-left {
 .button.button-white-stroke, a.button.button-white-stroke, a.button.button-white-stroke:link, a.button.button-white-stroke:visited,
 .primary-color-white .button.button-primary-stroke, .primary-color-white a.button.button-primary-stroke, .primary-color-white a.button.button-primary-stroke:link, .primary-color-white a.button.button-primary-stroke:visited {
   background: none;
-  border: 1px solid #fff;
+  border: 2px solid #fff;
   box-shadow: none;
 }
 .button.button-white-stroke:hover, a.button.button-white-stroke:hover,
