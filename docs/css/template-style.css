@@ -67,6 +67,10 @@ h6.headline, .h6.headline {
   font-size: 16px !important;
   line-height: 1.4;
 }
+.text-size-18, .text-l-size-18 {
+  font-size: 18px !important;
+  line-height: 1.4;
+}
 .text-size-20, .text-l-size-20 {
   font-size: 20px !important;
   line-height: 1.4;
@@ -386,7 +390,6 @@ height : auto;
 
 .logo-prepas-org{
 	
-	vertical-align: text-top;
 	height: 70px;
 
 width: auto;	
@@ -394,7 +397,7 @@ width: auto;
 
 .conteneur
 {
-    width: 100%;
+ width: 100%;
  display: flex;
  flex-direction: row;
  flex-wrap: nowrap;
@@ -1595,6 +1598,10 @@ p.form-success {
     }
     .text-m-size-16 {
         font-size: 16px !important;
+        line-height: 1.4;
+    }
+	.text-m-size-18 {
+        font-size: 18px !important;
         line-height: 1.4;
     }
     .text-m-size-20 {
