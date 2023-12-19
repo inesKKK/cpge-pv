@@ -716,6 +716,10 @@ aside.aside-left {
   color: #fff;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 /* Containers */
 .section  { 
   padding: 5rem 1.25rem;
