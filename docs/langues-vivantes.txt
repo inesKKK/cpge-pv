@@ -1,0 +1,41 @@
+ <div class="publication-content clearfix" itemprop="articleBody">
+            <div class="wysiwyg">
+ <p><i><b>Les langues vivantes en CPGE scientifiques au Lycée Paul Valéry</b></i></p>
+ <p>&#xa0;</p>
+ <p><img src="upload/docs/image/jpeg/2023-01/dir2/image1.jpeg" alt="image1" title="image1" width="427" height="285" loading="lazy" style="display: block; margin-left: auto; margin-right: auto;" class="is-width-set is-height-set is-width-set is-height-set" data-jalios-data-id="s1_2942486" data-jalios-lightbox-options="{&quot;thumb&quot;:&quot;upload/docs/image/jpeg/2023-01/dir2/image1.jpeg&quot;,&quot;downloadUrl&quot;:&quot;upload/docs/image/jpeg/2023-01/dir2/image1.jpeg&quot;,&quot;abstract&quot;:&quot;&quot;,&quot;title&quot;:&quot;image1&quot;,&quot;url&quot;:&quot;jcms/s1_2942486/fr/image1&quot;}">&#xa0;</p>
+ <p><u>Quelles sont les langues vivantes enseignées en CPGE scientifiques au Lycée Paul Valéry&#xa0;?</u></p>
+ <p>Le lycée Paul Valéry propose à tous les étudiants de CPGE scientifiques 2h hebdomadaires de LV1 obligatoire et 2h hebdomadaires de LV2 facultative, à choisir entre <b>l’allemand, l’anglais, l’espagnol ou l’italien. </b></p>
+ <p>L’enseignement <b>d’autres langues</b>, telles que le russe, le chinois, l’arabe, le japonais ou le portugais, est proposé par le biais de l’<b>EIE</b> (Enseignement Inter-Etablissement) au sein de l’académie de Paris.</p>
+ <p>&#xa0;</p>
+ <p><u>Qu’apprend-on en cours de langues vivantes en CPGE scientifiques&#xa0;?</u></p>
+ <p>L’enseignement des langues vivantes est axé sur <b>l’analyse de l’actualité géopolitique, sociale et culturelle du monde contemporain</b>, grâce à l’étude critique de la presse et des médias audiovisuels.</p>
+ <p>On y apprend à comprendre le monde contemporain, percevoir un point de vue critique, synthétiser des informations, prendre position, gagner en aisance à l’écrit comme à l’oral, prendre confiance en sa capacité à argumenter.</p>
+ <p>&#xa0;</p>
+ <p><u>L’anglais est-il obligatoire&#xa0;?</u></p>
+ <p><b>Certaines écoles imposent la maîtrise de l’anglais</b>, telles que les Mines, les Petites Mines ou l’ENAC.</p>
+ <p>Par ailleurs, l’école de management EDHEC ouvre les portes de son Master aux étudiants de CPGE scientifiques et exige la maîtrise de deux langues vivantes, dont l’anglais.</p>
+ <p>&#xa0;</p>
+ <p><u>Pourquoi suivre un enseignement facultatif de langue vivante&#xa0;?</u></p>
+ <p>Pour poursuivre une <b>formation intellectuelle complète</b> et acquérir une <b>ouverture culturelle</b> sur le monde contemporain.</p>
+ <p>Pour optimiser vos <b>chances d’intégration</b>&#xa0;: seuls les points supérieurs la moyenne sont comptabilisés pour les concours. Soyez ambitieux, vous avez tout à y gagner.</p>
+ <p>Pour <b>préparer votre cursus en école d’ingénieurs</b>&#xa0;: pour valider un Master, certaines écoles, comme le réseau Polytech, font passer une certification dans deux langues vivantes.</p>
+ <p>Pour ajouter une corde à son arc sur le <b>marché de l’emploi international.</b></p>
+ <p>&#xa0;</p>
+ <p><u>Quel niveau faut-il atteindre pour suivre les cours de langues vivantes en CPGE scientifiques&#xa0;?</u></p>
+ <p><b> Un niveau de motivation suffisant&#xa0;! </b></p>
+ <p>L’entrée en CPGE est l’occasion de <b>(re)voir toutes les bases linguistiques</b> qui donnent accès aux médias étrangers et permettent de s’exprimer clairement. A chacun de prendre conscience de ses acquis et du travail personnel nécessaire pour atteindre ses objectifs aux concours.</p>
+ <p>L’équipe enseignante est là pour vous accompagner et vous faire progresser dans votre parcours, quel que soit votre niveau de langue en Terminale.</p>
+ <p>&#xa0;</p>
+ <p><u>Qu’est-ce qu’une colle&#xa0;de langue vivante&#xa0;?</u></p>
+ <p>Les colles sont des <b>temps d’expression orale individuelle</b>, en tête-à-tête avec le professeur, à raison de 20 minutes par quinzaine en LV1 et 20 minutes trois fois dans l’année en LV2 facultative.</p>
+ <p>Il s’agit de synthétiser et commenter un article de presse relatif à l’actualité de l’année. Bien plus qu’une évaluation, c’est l’occasion pour l’étudiant et le professeur de <b>faire le point sur la progression personnelle</b>, d’échanger sur des questions méthodologiques ou des difficultés éventuelles, sur l’orientation et les stratégies pour optimiser ses chances de réussite aux concours.</p>
+ <p>&#xa0;</p>
+ <p><u>Comment se préparer pour les épreuves de langues vivantes aux concours&#xa0;?</u></p>
+ <p><b>S’intéresser au monde qui nous entoure</b>, <b>lire, écouter, voir, réfléchir, sortir&#xa0;!</b></p>
+ <p>Lire la presse.</p>
+ <p>Ecouter les débats de société qui animent la vie politique et citoyenne étrangère. Etre à l’écoute des opinions divergentes sur l’actualité étrangère et oser prendre position.</p>
+ <p>Voir des expositions, des films, des séries télévisuelles, des concerts, des performances artistiques.</p>
+ <p>Réfléchir à partir d’informations réelles, actuelles et vérifiables.</p>
+ <p><b>Sortir de sa zone de confort et avoir de l’ambition</b>&#xa0;!</p>
+</div>
+        </div>   
