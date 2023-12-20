@@ -114,6 +114,24 @@ b, strong, .text-strong {
 .text-extra-strong {
   font-weight: 800;
 }
+
+
+
+.liste-perso {list-style:none;
+margin-left: 0;
+	padding-left: 20px;
+	text-indent: -20px;
+  }
+.item-perso::before {content: "\25A0"; 
+color: #C81010;
+font-size: 20px;
+	line-height: 16px;
+	padding-right: 9px;
+	vertical-align: text-center;
+}
+
+
+
 blockquote::before {
   color: #e0e0e0;
   content: "“";
